@@ -1,0 +1,22 @@
+.p{
+  margin-bottom:10px;
+  font-size:20px;
+  align-items: left;
+
+}
+.email{
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+}
+.anj-button{
+  background-color: rgb(61, 118, 180);
+  width:120px;
+  height:30px;
+  color:white;
+  padding: center;
+  margin-top:0px;
+  margin-bottom:10px;
+  border-radius: 15px;
+  border-width:0px;
+}

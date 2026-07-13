@@ -1,0 +1,20 @@
+.img{
+  width:40px;
+  height:40px;
+  border-radius: 200px;
+  vertical-align: middle;
+}
+.inp{
+  border-width: 0px;
+  width:120px;
+}
+.button{
+  background-color: rgb(61, 118, 180);
+  width:50px;
+  height:30px;
+  color:white;
+  padding: center;
+  margin-left:0px;
+  border-radius: 15px;
+  border-width:0px;
+}
