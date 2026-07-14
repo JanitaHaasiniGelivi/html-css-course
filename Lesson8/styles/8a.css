@@ -1,0 +1,8 @@
+.name-input{
+  display: block;
+  border-color: gray;
+  border-width: 1px;
+  border-style: solid;
+  margin-bottom: 4px;
+  border-radius: 2px;
+}
